@@ -1,4 +1,4 @@
 # TipoBotaFutbol-Posicion
 
-Python Jupyter-Notebook
-
+* BotasFutbol-Posicion.ipynb
+* Dataset
