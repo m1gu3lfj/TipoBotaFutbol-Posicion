@@ -1,4 +1,5 @@
 # TipoBotaFutbol-Posicion
 
-**** BotasFutbolPosicion.ipynb
-**** footballboots_18.csv
+* BotasFutbolPosicion.ipynb (Python Notebook)
+
+* football_boots_18.csv (Dataset)
