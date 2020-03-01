@@ -1,4 +1,4 @@
 # TipoBotaFutbol-Posicion
 
-* BotasFutbol-Posicion.ipynb
-* Dataset
+**** BotasFutbolPosicion.ipynb
+**** footballboots_18.csv
